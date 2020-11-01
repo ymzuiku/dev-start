@@ -1,6 +1,6 @@
 {
   "name":"dev-start",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "lib/index.js",
   "devDependencies": {
     "express": "^4.17.1",
