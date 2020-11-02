@@ -18,6 +18,8 @@ const autoReload = require('../lib');
 
 autoReload(()=>{
   require('./index.js');
+}, ()=>{
+  console.log('onReload');
 })
 ```
 
